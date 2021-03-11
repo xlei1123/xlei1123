@@ -6,4 +6,5 @@ Hi, I am xianglei.
 - 🌈 I’m currently learning Vue.js , React , Node
 - 🌸 Programming with love
 - Things I code with
-       ![](https://img.shields.io/badge/-vue-green)  ![](https://img.shields.io/badge/-react-yellowgreen) ![](https://img.shields.io/badge/-node-orange)
+
+![](https://img.shields.io/badge/-vue-green)  ![](https://img.shields.io/badge/-react-yellowgreen) ![](https://img.shields.io/badge/-node-orange)
