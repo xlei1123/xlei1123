@@ -6,7 +6,6 @@
 - 🌈 I’m currently learning Vue.js , React , Node , c++.
 - 🌸 Programming with love.
 
-<img src="https://github-profile-trophy.vercel.app/?username=xlei1123&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xlei1123)](https://github.com/ryo-ma/github-profile-trophy)
 
