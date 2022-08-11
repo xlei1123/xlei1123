@@ -7,7 +7,9 @@
 - 🌸 Programming with love.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xlei1123&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-profile-trophy.vercel.app/?username=xlei1123&row=1" />
+[![trophy]()](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlei1123&layout=compact)](https://github.com/xlei1123/github-readme-stats)
 
