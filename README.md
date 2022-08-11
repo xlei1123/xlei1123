@@ -1,11 +1,21 @@
 ## About me
 
-Hi, I am xianglei.
-
-- 🍰 I’m currently working on web development
+'''
+## 将 gengyanlei 更改成 你的账户名称即可！
+## 用于统计github个人账户的star总数量等信息
+<img src="https://github-readme-stats.vercel.app/api?username=xlei1123&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+## author is xlei 👋
+- 🎓 CSU(master's degree)
+- 📖 I’m currently working on web development
+- 🔭 Computer vision(目标检测-语义分割-分类)
 - 🌈 I’m currently learning Vue.js , React , Node
 - 🌸 Programming with love
 
+## 也是统计github个人账户的star总数量等信息
+<img src="https://github-profile-trophy.vercel.app/?username=gengyanlei&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
+## 统计编程语言使用比例
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlei1123&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
+'''
 
 ### Languages and Tools:
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/318695bb8bb3f74e026bb85d3b3a94aaf489017986ea5384d10a789617ec00ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/318695bb8bb3f74e026bb85d3b3a94aaf489017986ea5384d10a789617ec00ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" style="max-width: 100%;"></a>
