@@ -12,7 +12,7 @@ Github Profile Trophy:
 
 <img src="https://github-profile-trophy.vercel.app/?username=xlei1123&row=1" />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 
 **languages and tools:**  
