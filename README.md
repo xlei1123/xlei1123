@@ -29,8 +29,11 @@ Github Profile Trophy:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   54 mins         █████████████████████████   100.00 %
+JavaScript   43 hrs 43 mins  █████████████████████████   89.00 %
+Css          13 hr 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Markdown     10 mins.        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+...
 ```
 
 <!--END_SECTION:waka-->
