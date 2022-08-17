@@ -2,9 +2,13 @@
 
 # author is xlei 👋
 
-- 📖 I’m currently working on web development.
-- 🌈 I’m currently learning Vue.js , React , Node , c++.
-- 🌸 Programming with love.
+I am a web developer from Chain 🇨🇳. For the past 9 years I am mostly focusing on web development using JavaScript.
+
+Most of my time is spent in mastering frontend development using React.js and Vue.js.
+
+In my free time, I do physical activities like cycling, hiking, and runing, or I either spend my time contributing to the open-source community
+
+
 
 
 
