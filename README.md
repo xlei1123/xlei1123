@@ -40,9 +40,10 @@ Markdown     10 mins.        ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <br />
+
 Github Profile Trophy:
 
-<img src="https://github-profile-trophy.vercel.app/?username=xlei1123&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=xlei1123&row=1" style="margin: 5px" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlei1123&layout=compact" />
 
