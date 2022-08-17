@@ -8,10 +8,16 @@
 - 🕘 Most of my time is spent in mastering frontend development using React.js and Vue.js. 
 - 🏃‍♀️ In my free time, I do physical activities like cycling, hiking, and runing, or I either spend my time contributing to the open-source community
 
+Github Profile Trophy:
 
 <img src="https://github-profile-trophy.vercel.app/?username=xlei1123&row=1" />
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<p align="left"> 
+  Visitor count:<br>
+  <img src="https://cdn.jsdelivr.net/gh/xlei1123/xlei1123/assets/count.svg"  />
+</p>
 
 **languages and tools:**  
 
