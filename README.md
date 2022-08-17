@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xlei1123&show_icons=true&theme=gotham" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-# author is xlei 👋
+# author is xlei 👋 ![](https://visitor-badge.glitch.me/badge?page_id=xlei1123.xlei1123)
 
 
 - 📖 I am a web developer from Chain 🇨🇳. 
@@ -32,10 +32,6 @@ Css          13 hr 36 mins   ██░░░░░░░░░░░░░░░
 Markdown     10 mins.        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ...
 ```
-
-![](https://visitor-badge.glitch.me/badge?page_id=xlei1123.xlei1123)
-
-[![GitHub Thaiane](https://img.shields.io/github/followers/xlei1123?label=follow&style=social)](https://github.com/xlei1123)
 
 <!--END_SECTION:waka-->
 
