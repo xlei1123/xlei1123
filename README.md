@@ -14,10 +14,6 @@ Github Profile Trophy:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<p align="left"> 
-  Visitor count:<br>
-  <img src="https://cdn.jsdelivr.net/gh/xlei1123/xlei1123/assets/count.svg"  />
-</p>
 
 **languages and tools:**  
 
