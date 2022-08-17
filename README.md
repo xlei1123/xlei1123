@@ -29,12 +29,15 @@ Github Profile Trophy:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   43 hrs 43 mins  █████████████████████████   89.00 %
-Css          13 hr 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+JavaScript   43 hrs 43 mins  █████████████████████████   69.00 %
+Css          13 hr 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   30.30 % 
 Markdown     10 mins.        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ...
 ```
+
+![](https://visitor-badge.glitch.me/badge?page_id=xlei1123.xlei1123)
+
+[![GitHub Thaiane](https://img.shields.io/github/followers/xlei1123?label=follow&style=social)](https://github.com/xlei1123)
 
 <!--END_SECTION:waka-->
 
